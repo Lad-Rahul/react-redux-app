@@ -1,6 +1,7 @@
 import React, { PureComponent } from "react";
-import CounterComponent from "../organisms/counterComponent";
 import { Provider } from "react-redux";
+
+import CounterComponent from "../organisms/counterComponent";
 import CounterStore from '../store/counterStore'
 
 
